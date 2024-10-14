@@ -1,1 +1,1 @@
-Shitposting is my passion.      Me rio como hiena
+Much of my work focuses on researching individuals from the state of Sonora, Mexico. Due to the sensitive nature of the data, including personal information and brain activity, most of these repositories are private. However, if you're interested in learning more about my research, feel free to reach out. I’d be happy to share the public aspects of the projects you're curious about.
