@@ -1,17 +1,21 @@
-📊 Kevin Martínez | Data Scientist & AI Engineer
+# 📊 Kevin Martínez | Data Scientist & AI Engineer  
 
-Welcome! I am a Data Scientist and AI Engineer with expertise in machine learning, data analytics, and cloud-based AI solutions. My work focuses on building robust, data-driven models and scalable architectures for real-world applications.
-🔍 Areas of Expertise
+Welcome! I am a **Data Scientist** and **AI Engineer** with expertise in **machine learning, data analytics, and cloud-based AI solutions**. My work focuses on building robust, data-driven models and scalable architectures for real-world applications.  
 
-✔ Machine Learning – Supervised & Unsupervised Learning, Scikit-learn, TensorFlow
-✔ Data Engineering – SQL, PostgreSQL, MySQL, Supabase, ETL Pipelines
-✔ Big Data & Cloud – Docker, IBM Cloud, Cloud Storage, Distributed Computing
-✔ Business Intelligence – Data Visualization, Dashboarding, Decision Support Systems
-🚀 Featured Projects
+## 🔍 Areas of Expertise  
 
-🧠 BrainTive: EEG-Based User Classification – Machine learning models for brainwave signal analysis and cognitive state prediction.
-🎓 AI Academic Mentor – An AI-driven recommendation system for personalized learning guidance in academic environments.
-📚 University LLM System: AI Assistant for Students – A domain-specific large language model designed to provide intelligent tutoring and academic support.
-📬 Get in Touch
+✔ **Machine Learning** – Supervised & Unsupervised Learning, Scikit-learn, TensorFlow  
+✔ **Data Engineering** – SQL, PostgreSQL, MySQL, Supabase, ETL Pipelines  
+✔ **Big Data & Cloud** – Docker, IBM Cloud, Cloud Storage, Distributed Computing  
+✔ **Business Intelligence** – Data Visualization, Dashboarding, Decision Support Systems  
 
-I am always interested in new collaborations, research projects, and real-world AI applications. Feel free to explore my repositories or reach out!
+## 🚀 Featured Projects  
+
+🧠 **BrainTive: EEG-Based User Classification** – Machine learning models for brainwave signal analysis and cognitive state prediction.  
+🎓 **AI Academic Mentor** – An AI-driven recommendation system for personalized learning guidance in academic environments.  
+📚 **University LLM System: AI Assistant for Students** – A domain-specific large language model designed to provide intelligent tutoring and academic support.  
+
+## 📬 Get in Touch  
+
+I am always interested in new collaborations, research projects, and real-world AI applications. Feel free to explore my repositories or reach out!  
+
