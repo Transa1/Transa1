@@ -14,8 +14,3 @@ Welcome! I am a **Data Scientist** and **AI Engineer** with expertise in **machi
 🧠 **BrainTive: EEG-Based User Classification** – Machine learning models for brainwave signal analysis and cognitive state prediction.  
 🎓 **AI Academic Mentor** – An AI-driven recommendation system for personalized learning guidance in academic environments.  
 📚 **University LLM System: AI Assistant for Students** – A domain-specific large language model designed to provide intelligent tutoring and academic support.  
-
-## 📬 Get in Touch  
-
-I am always interested in new collaborations, research projects, and real-world AI applications. Feel free to explore my repositories or reach out!  
-
